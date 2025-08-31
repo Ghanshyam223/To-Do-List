@@ -10,4 +10,4 @@ This is a simple to-do list web application built using HTML, CSS, and JavaScrip
 
 ## How to Run
 1. Download the project
-2. Open `index.html` in your browser
+2. Open `index.html` in your browser.
